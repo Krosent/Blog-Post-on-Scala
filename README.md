@@ -14,3 +14,7 @@ Project contains regular for Play Framework folder structure. In addition to wha
 #Template
 The template is based on Bootstrap Framework v4. Template was taken from https://startbootstrap.com. Copyright 2013-2019 Blackrock Digital LLC.
 
+
+![Test Image 1](https://github.com/Krosent/Blog-Post-on-Scala/blob/main/main.jpg?raw=true)
+![Test Image 2](https://github.com/Krosent/Blog-Post-on-Scala/blob/main/login.jpg)
+![Test Image 3](https://github.com/Krosent/Blog-Post-on-Scala/blob/main/new_post.jpg?raw=true)
